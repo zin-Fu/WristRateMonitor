@@ -1,4 +1,4 @@
-# Heart Rate Monitoring Application
+# Heart Rate Monitoring Application🚀
 
 This is a heart rate monitoring application with a graphical user interface (GUI) built using PyQt5 and OpenCV. It captures images from a webcam or video file and calculates the heart rate by processing the images.
 
@@ -7,7 +7,6 @@ This is a heart rate monitoring application with a graphical user interface (GUI
 - Capture real-time video from a webcam or load a video file.
 - Process the captured frames to detect the user's pulse rate.
 - Display the real-time heart rate on the GUI.
-- Allow the user to adjust settings such as video source, region of interest, and processing parameters.
 
 ## Requirements
 
