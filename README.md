@@ -22,7 +22,7 @@ This is a heart rate monitoring application with a graphical user interface (GUI
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-repository.git
+[   [git clone https://github.com/your-repository.git](https://github.com/zin-Fu/WristRateMonitor.git](https://github.com/zin-Fu/WristRateMonitor.git)
    ```
 
 2. Install the required dependencies:
